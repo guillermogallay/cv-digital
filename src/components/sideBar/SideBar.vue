@@ -1,10 +1,5 @@
 <template>
-    <v-col
-        cols="12"
-        xs="12"
-        sm="5" 
-        class="text-justify"
-        align="center">
+    <div>
         <section>
             <v-card-title>
                 <h4 roboto>SOBRE MÍ</h4>
@@ -68,7 +63,7 @@
                 </v-chip>
             </v-card-text>
         </section>
-    </v-col>
+    </div>
 </template>
 
 <script src="./SideBar.js"></script>
