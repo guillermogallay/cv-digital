@@ -1,13 +1,13 @@
 <template>
   <v-app>
     <v-main>
-      <CvDigital />
+      <CvDigital/>
     </v-main>
   </v-app>
 </template>
 
 <script>
-import CvDigital from './views/cv-digital/CvDigital';
+import CvDigital from './views/cv-digital/CvDigital.vue';
 
 export default {
   components: {
